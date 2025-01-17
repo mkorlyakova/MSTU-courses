@@ -1,0 +1,12 @@
+prolongation_service_train
+horse
+flight_delays_train
+mlbootcamp5_train
+bank
+adult_train
+credit_scoring_train
+
+
+
+
+https://disk.yandex.ru/d/h8IszCUCRpOrkQ
